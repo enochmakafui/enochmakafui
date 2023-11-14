@@ -3,7 +3,7 @@ I love Python and Javascript.
 ### ABOUT ME 💻
 - 🌱I'm a junior full stack developer
 - 🕸 Proficiently Skilled in (Web Application Development) React Js ,Node Js, Mongo Db, Express Js and Python
-- 💬 Ask me about how I go here and the answer is 🌃 `CONSISTENCY, AND HARDWORKING ` brought me this far.
+- 💬 Ask me about how I got here and the answer is 🌃 `CONSISTENCY, AND HARDWORKING ` brought me this far.
 - 🤔 I’m looking to collaborate on projects in web application development to help me level up my skills
 - 😄 Pronouns:he/him
 ### MY TECH STACK:
