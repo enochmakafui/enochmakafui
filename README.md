@@ -1,7 +1,7 @@
 ### Hi 👋,I'm Enoch
 I love Python and Javascript.
 ### ABOUT ME 💻
-- 🌱I'm a junior frontend developer
+- 🌱I'm a frontend developer
 - 🕸 Proficiently Skilled in (Web Application Development) React Js ,Node Js, Mongo Db, Express Js and Python
 - 💬 Ask me about how I got here and the answer is 🌃 `CONSISTENCY, AND HARDWORKING ` brought me this far.
 - 🤔 I’m looking forward to collaborate on projects in web application development to help me level up my skills
