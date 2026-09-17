@@ -5,7 +5,7 @@ Graduate Teaching Assistant & First-Class Computer Science graduate passionate a
 ***
 
 ### 💫 About Me
-- 🎓 **Education:** B.Sc. in Computer Science (First-Class Honors & Overall Best Student, University of Cape Coast)
+- 🎓 **Education:** B.Sc. in Computer Science 2025 (First-Class Honors & Overall Best Student, University of Cape Coast)
 - 🏫 **Current Role:** Graduate Teaching Assistant, Department of Computer Science & IT
 - 💻 **Software Engineering:** Frontend Developer specializing in responsive, user-centric web applications
 - 🔬 **Research & Focus:** Machine Learning, Artificial Intelligence, Cybersecurity, & Behavioral Anomaly Detection
@@ -38,8 +38,8 @@ Graduate Teaching Assistant & First-Class Computer Science graduate passionate a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=enochmakafui&show_icons=true&theme=radial" alt="Enoch's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=enochmakafui&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enochmakafui&theme=radial" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=enochmakafui&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 ***
 
