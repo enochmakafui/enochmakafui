@@ -38,8 +38,8 @@ Graduate Teaching Assistant & First-Class Computer Science graduate passionate a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enochmakafui&show_icons=true&theme=radial" alt="Enoch's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enochmakafui&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enochmakafui&show_icons=true&theme=radial" alt="Enoch's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enochmakafui&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
 ***
