@@ -33,15 +33,7 @@ Graduate Teaching Assistant & First-Class Computer Science graduate passionate a
 **Academic & Core Foundations**
 * Discrete Mathematics • Data Structures & Algorithms • Linear Algebra • Numerical Analysis • Computer Architecture
 
-***
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enochmakafui&theme=radial" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=enochmakafui&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-***
 
 ### 📫 Connect With Me
 - 💼 **LinkedIn:** [Enoch Hodo](https://www.linkedin.com/in/enoch-hodo-686739237/)
